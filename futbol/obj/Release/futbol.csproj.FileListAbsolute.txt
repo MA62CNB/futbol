@@ -1,0 +1,24 @@
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\futbol.Form1.resources
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\futbol.Properties.Resources.resources
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\futbol.csproj.GenerateResource.Cache
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\bin\Release\futbol.exe
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\bin\Release\futbol.pdb
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\futbol.exe
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Release\futbol.pdb
+C:\Users\user\staj\futbol\futbol\bin\Release\futbol.exe
+C:\Users\user\staj\futbol\futbol\bin\Release\futbol.pdb
+C:\Users\user\staj\futbol\futbol\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.Form1.resources
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.Properties.Resources.resources
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.csproj.GenerateResource.Cache
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.exe
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.pdb
+C:\Users\user\staj\futbol\futbol\bin\Release\futbol.exe.config
+C:\Users\user\staj\futbol\futbol\bin\Release\tr-TR\futbol.resources.dll
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.Form1.tr-TR.resources
+C:\Users\user\staj\futbol\futbol\obj\Release\tr-TR\futbol.resources.dll
+C:\Users\user\staj\futbol\futbol\bin\Release\futbol.exe.manifest
+C:\Users\user\staj\futbol\futbol\bin\Release\futbol.application
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.exe.manifest
+C:\Users\user\staj\futbol\futbol\obj\Release\futbol.application

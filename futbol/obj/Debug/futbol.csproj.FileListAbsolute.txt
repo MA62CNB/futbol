@@ -1,0 +1,33 @@
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\bin\Debug\futbol.exe
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\bin\Debug\futbol.pdb
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\futbol.Form1.resources
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\futbol.Properties.Resources.resources
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\futbol.csproj.GenerateResource.Cache
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\futbol.exe
+C:\Users\EGITIM\AppData\Local\Temporary Projects\futbol\obj\Debug\futbol.pdb
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\futbol.exe
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\futbol.pdb
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\bin\Debug\futbol.exe
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\bin\Debug\futbol.pdb
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\futbol.Form1.resources
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\futbol.Properties.Resources.resources
+C:\Users\EGITIM\Desktop\Program Denemeleri\futbol\futbol\obj\Debug\futbol.csproj.GenerateResource.Cache
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.exe
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.pdb
+C:\Users\user\staj\futbol\futbol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.Form1.resources
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.Properties.Resources.resources
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.csproj.GenerateResource.Cache
+C:\Users\user\staj\futbol\futbol\bin\Debug\futbol.exe
+C:\Users\user\staj\futbol\futbol\bin\Debug\futbol.pdb
+C:\Users\user\staj\futbol\futbol\bin\Debug\futbol.exe.config
+C:\Users\user\staj\futbol\futbol\bin\Debug\tr-TR\futbol.resources.dll
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.Form1.tr-TR.resources
+C:\Users\user\staj\futbol\futbol\obj\Debug\tr-TR\futbol.resources.dll
+C:\Users\user\staj\futbol\futbol\bin\Debug\futbol.exe.manifest
+C:\Users\user\staj\futbol\futbol\bin\Debug\futbol.application
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.exe.manifest
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.application
+C:\Users\user\staj\futbol\futbol\obj\Debug\futbol.Form2.resources
